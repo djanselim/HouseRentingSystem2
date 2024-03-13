@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem2", "HouseRentingSystem2\HouseRentingSystem2.csproj", "{F7647F77-2A92-4F4F-9C2F-E1CE8C084C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRentingSystem2", "HouseRentingSystem2\HouseRentingSystem2.csproj", "{F7647F77-2A92-4F4F-9C2F-E1CE8C084C92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem.Core", "HouseRentingSystem.Core\HouseRentingSystem.Core.csproj", "{7800E65F-9533-4A83-94D7-252E52E3D141}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRentingSystem.Core", "HouseRentingSystem.Core\HouseRentingSystem.Core.csproj", "{7800E65F-9533-4A83-94D7-252E52E3D141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseRentingSystem.Infrastructure", "HouseRentingSystem.Infrastructure\HouseRentingSystem.Infrastructure.csproj", "{70CFAD8A-9972-4D70-B5E2-76671FE36464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRentingSystem.Infrastructure", "HouseRentingSystem.Infrastructure\HouseRentingSystem.Infrastructure.csproj", "{70CFAD8A-9972-4D70-B5E2-76671FE36464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
