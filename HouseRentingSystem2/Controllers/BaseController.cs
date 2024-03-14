@@ -6,6 +6,6 @@ namespace HouseRentingSystem2.Controllers
     [Authorize]
     public class BaseController : Controller
     {
-        
+           
     }
 }
