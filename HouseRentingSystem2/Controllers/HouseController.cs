@@ -4,11 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HouseRentingSystem2.Controllers
 {
-	[Authorize]
-	public class HouseController : Controller
+	public class HouseController : BaseController
 	{
 		[AllowAnonymous]
-
 		[HttpGet]
 		public async Task<IActionResult> All()
 		{
